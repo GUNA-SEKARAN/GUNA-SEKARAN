@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @GUNA-SEKARAN
 🏫 He is a  completed a Master degree in Computer Science from the St.joseph's College, Trichy, India.
 
-- 👀 I’m interested in C#, JAVA, HTML, CSS.
-- 🌱 I’m currently learning C#, PYTHON
+- 👀 I’m interested in C#,Java script,Typescript,Angular
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 60%
+- 📫 How to reach me 90%
 - 🤞Working in ANGULAR
 
 <!---
