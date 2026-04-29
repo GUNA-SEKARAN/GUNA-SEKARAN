@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @GUNA-SEKARAN
-🏫 He is a  completed a Master degree in Computer Science from the St.joseph's College, Trichy, India.
+Hi there, I'm Guna Sekaran 👋
+I am a passionate Full Stack Developer with a Master’s degree in Computer Science from St. Joseph's College, Trichy. Currently, I am focusing my expertise on building dynamic and scalable web applications using Angular.
 
-- 👀 I’m interested in C#,Javascript,Typescript,Angular
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 90%
-- 🤞Working in ANGULAR
+🛠 Tech Stack & Interests
+Languages: C#, JavaScript, TypeScript
+
+Frontend: Angular, HTML5, CSS3
+
+Backend: .NET / C# (Assuming based on your C# interest)
+
+Learning: Advanced Angular patterns and Cloud technologies
+
+🚀 What I'm Up To
+🔭 Currently working on: Professional Angular projects.
+
+🌱 Learning: Deep diving into RxJS and Angular Performance Optimization.
+
+🤝 Looking to collaborate on: Open-source projects involving TypeScript or Angular.
+
+💬 Ask me about: Frontend development, C#, or my college days in Trichy!
+
+📫 How to reach me
+Email: gunasekaran3927@gmail.com
+
+LinkedIn:linkedin.com/in/guna-sekaran-170b8223b/
 
 <!---
 GUNA-SEKARAN/GUNA-SEKARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
